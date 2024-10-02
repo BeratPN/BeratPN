@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeratPN
+- 👋 Hi, I’m Berat
 - 👀 I’m interested in Fullstack Web Dev
 - 🌱 I’m currently learning Express with Typescript
 - 📫 How to reach me mail: beratpehlivan32@gmail.com
