@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/berat-pehlivan">
-    <img width='120' src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+    <img width='100' src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:beratpehlivan32@gmail.com">
-    <img width='115' src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
+    <img width='95' src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://leetcode.com/u/beratpn">
-    <img width='150' src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge">
+    <img width='122' src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge">
   </a>
 </p>
 
