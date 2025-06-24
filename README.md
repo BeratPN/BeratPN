@@ -37,7 +37,7 @@ I'm a **Software Developer** with a passion for **Web Technologies**. I enjoy bu
 
 
 
- 💻 My Tech Stack
+ ### 💻 My Tech Stack
 <p align="center">
 <i>Here are some of the technologies I've been working with:</i>
 </p>
