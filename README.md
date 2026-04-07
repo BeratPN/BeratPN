@@ -17,7 +17,7 @@
 I'm a **Software Developer** with a passion for **Web Technologies**. I enjoy building applications and I'm always eager to learn and apply new things in the web ecosystem.
 
 -   🔭 I’m currently focused on solving LeetCode problems to improve my algorithm and data structure skills.
--   🌱 I’m currently learning **Laravel**.
+-   🌱 I’m currently learning **Python**.
 -   📫 How to reach me: **beratpehlivan32@gmail.com**
 
 ---
